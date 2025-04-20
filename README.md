@@ -1,6 +1,3 @@
-Klar! Hier ist der vollständige Inhalt deiner `README.md` – direkt zum Kopieren und Einfügen:
-
-```markdown
 # ShopZilla
 
 An e-commerce web application developed as the final project of my course.
@@ -123,7 +120,3 @@ All data, including images, is retrieved from:
 🔗 [https://dummyjson.com/docs/products](https://dummyjson.com/docs/products)
 
 > ⚠️ Note: Some product images may be low quality or not properly centered in their containers.
-```
-
-Einfach kopieren, in deine `README.md` einfügen, committen – fertig ✅  
-Wenn du willst, mach ich dir auch die deutsche Version oder ein Markdown-Template für weitere Projekte.
